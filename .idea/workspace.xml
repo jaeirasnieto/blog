@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f6a4c08-776e-4621-aea8-a5d7da2c8f40" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="8f6a4c08-776e-4621-aea8-a5d7da2c8f40" name="Default" comment="" />
     <ignored path="blog.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/post.rb" changelist="8f6a4c08-776e-4621-aea8-a5d7da2c8f40" time="1383432907734" ignored="false" />
     <file path="$PROJECT_DIR$/config/database.yml" changelist="8f6a4c08-776e-4621-aea8-a5d7da2c8f40" time="1383432320202" ignored="false" />
     <file path="/Dummy.txt" changelist="8f6a4c08-776e-4621-aea8-a5d7da2c8f40" time="1383502945772" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="8f6a4c08-776e-4621-aea8-a5d7da2c8f40" time="1383503043414" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
